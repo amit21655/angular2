@@ -5,9 +5,15 @@ This is a test file for the first time
 
 This is the second commit
 
+
 Added A
 Added B
 Added C
+
+Added 1
+Added 2
+Added 3
+
 
 Done
 Thank you :)
